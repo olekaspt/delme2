@@ -19,7 +19,7 @@ using namespace std;
     widget2.storeInteger(1);
     widget2.storeInteger(3);
     int sum2 = widget2.sum();
-    cout << "sum2 cool whip:"<<sum2 << " ";
+    cout << "sum2 cool really cool whip:"<<sum2 << " ";
 
 
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
